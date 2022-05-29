@@ -1,2 +1,3 @@
 # Athena
-The Ingame dll for Fortnite (Chapter 1 &amp; 2)
+Welcome to Athena. An open-source Ingame, Backend, and Gameserver for Fortnite (including Launcher, duh)<br>
+Discord Server: https://discord.gg/wGjpNW66Hf<br><br>
